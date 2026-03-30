@@ -1,4 +1,4 @@
-#### General Supply & Retail
+#### General Supply Chains & Retail
 
 ## Core Structure
 
