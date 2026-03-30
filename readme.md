@@ -186,7 +186,7 @@ Actual features scale linearly with labels and predicates, not with system compo
 **Temporal scaling**: Archive old time slices, maintain sparse representation
 **Query performance**: Index on (entity_id, location_id, time)
 
-## Groups properties prevent bugs.
+## No Bugs Due To Group Properties
 
 1. Pure function: M(e, l, t) always returns same R for same inputs
 2. No hidden state: All state in M
